@@ -1,0 +1,11 @@
+<Project>
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>preview</LangVersion>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <Company>The Piper Box</Company>
+    <Version>0.1.0</Version>
+  </PropertyGroup>
+</Project>
