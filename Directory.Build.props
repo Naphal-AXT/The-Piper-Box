@@ -5,7 +5,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <LangVersion>preview</LangVersion>
     <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <AnalysisLevel>latest</AnalysisLevel>
+    <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <Company>The Piper Box</Company>
     <Version>0.1.0</Version>
+    <Authors>Naphal-AXT</Authors>
+    <RepositoryUrl>https://github.com/Naphal-AXT/The-Piper-Box</RepositoryUrl>
   </PropertyGroup>
 </Project>
